@@ -11,14 +11,13 @@ I build ML systems that touch real data — from neural inference on cosmologica
 
 **Working with:** Python · PyTorch · LLM fine-tuning (QLoRA) · RAG / embeddings · SQL · React/Next.js · scientific computing
 
-### Selected projects
+### Selected work
+*(Several repos are private while I clean them up — happy to share code on request: aastikc15@gmail.com)*
 
-| Project | What it is | Stack |
-|---|---|---|
-| **[cosmos](https://github.com/AastikRajan/cosmos)** | Dark-energy & structure-growth research engine — neural Simulation-Based Inference (SNPE + Masked Autoregressive Flow) on real survey data (ACT DR6, KiDS, DESI, Pantheon+); ΛCDM vs CPL vs modified-gravity model comparison | Python · PyTorch · JAX |
-| **[Astro-brain](https://github.com/AastikRajan/Astro-brain)** | Multi-model prediction engine — runs 5 forecasting models in parallel, arbitrates via Bayesian confidence scoring, and synthesizes results with GPT-4o; 40+ specialized modules | Python · OpenAI API · Bayesian inference |
-| **[money-maker](https://github.com/AastikRajan/money-maker)** | Personal-finance reconciliation engine — parses bank PDFs + Splitwise API, runs record-linkage matching and anomaly flagging, renders an interactive dashboard | Python · Next.js · React |
-| **[3d-portfolio](https://github.com/AastikRajan/3d-portfolio)** | Interactive 3D portfolio | Three.js · Next.js · TypeScript |
+- **Cosmos** — Dark-energy & structure-growth research engine: neural Simulation-Based Inference (SNPE + Masked Autoregressive Flow) on real survey data (ACT DR6, KiDS, DESI, Pantheon+); ΛCDM vs CPL vs modified-gravity model comparison. *(Python · PyTorch · JAX)*
+- **Small Action Model** — Tool-calling LLM: Qwen2.5-3B fine-tuned with QLoRA, custom MCP tool interface, BFCL-style evaluation of decision accuracy & hallucination rate. *(Python · PyTorch · PEFT)*
+- **money-maker** — Personal-finance reconciliation engine: parses bank PDFs + Splitwise API, record-linkage matching + anomaly flagging, interactive dashboard. *(Python · Next.js)*
+- **[3d-portfolio](https://github.com/AastikRajan/3d-portfolio)** — Interactive 3D portfolio. *(Three.js · Next.js · TypeScript)* ← public
 
 ### Research
 Co-author, *Remote Sensing Observation of Sea-Surface Parameters over the Bay of Bengal & Arabian Sea* — **Springer Nature** book chapter (2025), from satellite Earth-observation data pipelines built during a research internship at **ISRO**.
