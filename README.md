@@ -33,5 +33,5 @@ Co-author, *Remote Sensing Observation of Sea-Surface Parameters over the Bay of
 ---
 
 <p align="center">
-  📧 aastikc15@gmail.com &nbsp;·&nbsp; 🔗 <a href="https://www.linkedin.com/in/aastik-rajan-364926205/">LinkedIn</a> &nbsp;·&nbsp; 🌐 <a href="https://aastikrajan.github.io/Aastik-Rajan/">Portfolio</a>
+  📧 aastikc15@gmail.com &nbsp;·&nbsp; 🔗 <a href="https://www.linkedin.com/in/aastik-rajan-364926205/">LinkedIn</a> &nbsp;·&nbsp; 🌐 <a href="https://aastikrajan.github.io/">Portfolio</a>
 </p>
