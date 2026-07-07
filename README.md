@@ -18,8 +18,8 @@ I build ML systems that touch real data — from neural inference on cosmologica
 | **[pulseguard](https://github.com/AastikRajan/pulseguard)** | Intraoperative early-warning AI on **VitalDB** — flags 9 kinds of deterioration ~4 min ahead, with an honest benchmark. *(Python · time-series ML)* | 🔴 [Live demo](https://aastikrajan.github.io/pulseguard/) |
 | **[cosmoscope](https://github.com/AastikRajan/cosmoscope)** | Research-intelligence map over **23,954 arXiv** cosmology papers; a white-space engine that surfaces under-explored research bridges. *(BERTopic · embeddings)* | 🔴 [Live dashboard](https://aastikrajan.github.io/cosmoscope/) |
 | **[cashflow-runway-advisor](https://github.com/AastikRajan/cashflow-runway-advisor)** | Multi-agent financial planner (**Planner + Executor + Judge**) with streaming responses and guardrails. *(FastAPI · Claude)* | code |
-| **[daily-puzzles](https://github.com/AastikRajan/daily-puzzles)** | Five deterministic daily logic puzzles (Sudoku, Nonogram, Kakuro…) as an offline-first **PWA**. *(React · TypeScript · Vite)* | code |
-| **[lantern-balloon-game](https://github.com/AastikRajan/lantern-balloon-game)** | Physics puzzle-platformer — protect the balloon. *(Three.js · Rapier2D)* | code |
+| **[daily-puzzles](https://github.com/AastikRajan/daily-puzzles)** | Five deterministic daily logic puzzles (Sudoku, Nonogram, Kakuro…) as an offline-first **PWA**. *(React · TypeScript · Vite)* | 🧩 [Play](https://aastikrajan.github.io/daily-puzzles/) |
+| **[lantern-balloon-game](https://github.com/AastikRajan/lantern-balloon-game)** | Physics puzzle-platformer — protect the balloon. *(Three.js · Rapier2D)* | 🎮 [Play](https://aastikrajan.github.io/lantern-balloon-game/) |
 
 ### 🔬 Research & systems *(private — happy to share on request: aastikc15@gmail.com)*
 
