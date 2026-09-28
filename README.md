@@ -11,16 +11,19 @@ I build ML systems that touch real data — from neural inference on cosmologica
 
 **Working with:** Python · PyTorch · LLM fine-tuning (QLoRA) · multi-agent / RAG · SQL · React/Next.js · scientific computing
 
-### 🚀 Featured — public, with live demos
+### 🚀 Featured — public
 
 | Project | What it does | Try it |
 | --- | --- | --- |
 | **[pulseguard](https://github.com/AastikRajan/pulseguard)** | Intraoperative early-warning AI on **VitalDB** — flags 9 kinds of deterioration ~4 min ahead, with an honest benchmark. *(Python · time-series ML)* | 🔴 [Live demo](https://aastikrajan.github.io/pulseguard/) |
 | **[cosmoscope](https://github.com/AastikRajan/cosmoscope)** | Research-intelligence map over **23,954 arXiv** cosmology papers; a white-space engine that surfaces under-explored research bridges. *(BERTopic · embeddings)* | 🔴 [Live dashboard](https://aastikrajan.github.io/cosmoscope/) |
 | **[cashflow-runway-advisor](https://github.com/AastikRajan/cashflow-runway-advisor)** | Multi-agent financial planner (**Planner + Executor + Judge**) with streaming responses and guardrails. *(FastAPI · Claude)* | code |
-| **[vortex-drop](https://github.com/AastikRajan/vortex-drop)** | One-touch neon 3D arcade drop — thread the ball down an endless glass tower, chain fever combos. *(Three.js · TypeScript)* | 🌀 [Play](https://aastikrajan.github.io/vortex-drop/) |
-| **[daily-puzzles](https://github.com/AastikRajan/daily-puzzles)** | Five deterministic daily logic puzzles (Sudoku, Nonogram, Kakuro…) as an offline-first **PWA**. *(React · TypeScript · Vite)* | 🧩 [Play](https://aastikrajan.github.io/daily-puzzles/) |
-| **[lantern-balloon-game](https://github.com/AastikRajan/lantern-balloon-game)** | Physics puzzle-platformer — protect the balloon. *(Three.js · Rapier2D)* | 🎮 [Play](https://aastikrajan.github.io/lantern-balloon-game/) |
+| **[variantscope](https://github.com/AastikRajan/variantscope)** | Protein-variant explainer: AlphaMissense damage score + ClinVar label + AlphaFold 3D structure with the mutated residue highlighted. Educational, non-diagnostic. *(JavaScript)* | code |
+| **[rubin-night-explorer](https://github.com/AastikRajan/rubin-night-explorer)** | Real ZTF transient alerts on a rotating celestial sphere, with real lightcurves and a broker-triage game. *(TypeScript)* | code |
+| **[offline-oracle](https://github.com/AastikRajan/offline-oracle)** | A small language model running entirely in the browser via WebGPU (WebLLM) as an AI NPC: no server, no API key. *(TypeScript)* | code |
+
+### 🎮 Also built for fun (browser games)
+[vortex-drop](https://aastikrajan.github.io/vortex-drop/) · [daily-puzzles](https://aastikrajan.github.io/daily-puzzles/) · [lantern-balloon-game](https://aastikrajan.github.io/lantern-balloon-game/)
 
 ### 🔬 Research & systems *(private — happy to share on request: aastikc15@gmail.com)*
 
